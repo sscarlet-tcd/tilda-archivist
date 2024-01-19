@@ -34,7 +34,7 @@
   "addons": [
     "heroku-redis:premium-1",
     "heroku-postgresql:standard-0",
-    "scheduler:standard",
+    "scheduler:standard"
   ],
   "buildpacks": [
     {
